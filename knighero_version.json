@@ -1,3 +1,4 @@
-{ "min_version": "0.1.0",
-  "url": "https://play.google.com/store/apps/details?id=com.xphoenixapp.knighero",
-  "msg_tr": "", "msg_en": "" }
+{   "min_version": "99.0.0",
+  "url": "https://play.google.com/store/apps/details?id=com.xphoenixapp.knigherolegends",
+  "msg_tr": "Knighero yeni adresine taşındı! Oynamaya devam etmek için yeni sürüm Knighero Legends'ı indir.",
+  "msg_en": "Knighero has moved! Download the new version, Knighero Legends, to keep playing." }
